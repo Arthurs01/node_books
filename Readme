@@ -1,0 +1,15 @@
+npm init -y
+npm i express
+npm i ejs
+npm i nodemon
+npx nodemon src=index.js
+
+agregar este script a package.json:
+
+"dev": "nodemon src/index.js"
+npm run dev
+
+npm uuid
+
+https://uigradients.com/#Influenza
+
